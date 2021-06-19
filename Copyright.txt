@@ -1,6 +1,0 @@
-  *** Copyright Notice ***
-FlapwMBPT, Copyright (c) 2016, Brookhaven National Laboratory
-(subject to receipt of any required approvals from the U.S. Dept. of Energy).
-All rights reserved.
-For full license information see "license.txt"
-
