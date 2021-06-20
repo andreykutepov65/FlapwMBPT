@@ -1,0 +1,23 @@
+
+Release FlapwMBPT.2106
+
+As compared to previous version, new default system has been developed.
+As a result, input file format is completely new and simple to use.
+Also, LAPW basis set has been optimized (PRB 103, 165101)
+
+Both changes resulted in considerable work for updating the code.
+
+Features available for use:
+
+LDA, GGA (including atomic forces)
+Hartre-Fock approximation
+QSGW (self-consistent quasiparticle GW approach)
+scGW (self-consistent GW)
+sc(GW+G3W2) - first order vertex corrected GW (scheme B in PRB 94, 155101)
+sc(BSE:P$GW+G3W2) - BSE for polarizability and first order vertex correction for self energy (scheme G in PRB 94, 155101)
+
+
+Under developing:
+
+Susceptibilities (updating)
+Other vertex corrected schemes (updating)
